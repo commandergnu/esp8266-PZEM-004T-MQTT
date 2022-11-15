@@ -1,4 +1,4 @@
-# esp8266-PZEM-004T-MQTT
+# esp8266 PZEM-004T MQTT
 
 ![PZEM-004T](https://user-images.githubusercontent.com/97611375/201859287-56df8051-53ae-4b90-8e97-7a16cd6da73b.png)
 
