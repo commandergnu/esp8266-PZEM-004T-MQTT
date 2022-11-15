@@ -40,7 +40,7 @@ Thing mqtt:topic:ESP_Watmeter "ESP_Watmeter" (mqtt:broker:33513b1646) [availabil
 
 #### .sitemap
 
- Frame label=Watmeter{
+ Frame label=Watmeter {
             Text label="Watmeter" icon="energy"
             Text item=ESP_Watmeter_status       icon="Switch"   valuecolor=[Online="lime", Offline="red"]
             Switch item=ESP_Watmeter_Switch     mappings=[OFF="OFF",ON="ON"]  icon="Switch"   valuecolor=[Online="lime", Offline="red"]
